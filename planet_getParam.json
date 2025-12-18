@@ -55,7 +55,7 @@
         "exibirSegundaVia": "s",
         "exibirUpgradePlano": "n",
         "chamadoPorZap": "n",
-        "exibirTesteVelocidade": "s",
+        "exibirTesteVelocidade": "n",
         "exibirEstouSemInternet": "s",
         "exibirSuporteTecnico": "s",
         "exibirAlteraEndereco": "n",
