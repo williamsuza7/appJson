@@ -246,7 +246,7 @@
         "comentario16": "Dados para Acesso SMS",
         "sendSmsURL": "http:\/\/painel.kingsms.com.br\/kingsms\/api.php?acao=sendsms&login=central&token=567055dff8bbd268182547c6da8b8863&numero=[celular]&msg=Olá! essa é sua senha para acesso app PLANET.com: [senha]",
         "comentario17": "Dados para acesso ao WS",
-        "tokenWS": "MjAyNS0xMi0yMSAyMzo1OTowMC4wMDA=",
+        "tokenWS": "OTk5OS0xMi0yMSAyMzo1OTowMC4wMDA=",
         "kToken": "3dd12644-f24e-4deb-9c41-0525fae40cc9",
         "kApp": "mikrotik",
         "loginCPF": "s",
