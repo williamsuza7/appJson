@@ -281,7 +281,25 @@
         "tituloOfertas": "Ofertas Especiais",
         "ofertas": [
             {
+                "image": "https:\/\/raw.githubusercontent.com\/williamsuza7\/appJson\/main\/planet_banner5.png",
+                "category": "",
+                "subTitle": "",
+                "routeName": "",
+                "height": 220.0,
+                "width": 260.0,
+                "link": "https:\/\/www.instagram.com\/planet.com_oficial\/"
+            },
+            {
                 "image": "https:\/\/raw.githubusercontent.com\/williamsuza7\/appJson\/main\/planet_banner1.png",
+                "category": "",
+                "subTitle": "",
+                "routeName": "",
+                "height": 220.0,
+                "width": 260.0,
+                "link": "https:\/\/www.instagram.com\/planet.com_oficial\/"
+            },
+                        {
+                "image": "https:\/\/raw.githubusercontent.com\/williamsuza7\/appJson\/main\/planet_banner6.png",
                 "category": "",
                 "subTitle": "",
                 "routeName": "",
